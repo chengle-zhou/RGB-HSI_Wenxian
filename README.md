@@ -2,7 +2,7 @@
 ---
 ## Wenxian Dataset for Spectral Super-Resolution from RGB to HSI
 
-***Chengle Zhou and Yunfei Li***
+***Chengle Zhou, Yunfei Li, and Long Yu***
 
 *April 2024*
 
