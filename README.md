@@ -1,4 +1,4 @@
-#### Wenxian | Sentinel-2 & Gaofen-5 | RGB-HSI dataset
+#### Wenxian | Sentinel-2 & GF-5 | RGB-HSI dataset
 ---
 ## Wenxian Dataset for Spectral Super-Resolution from RGB to HSI
 
