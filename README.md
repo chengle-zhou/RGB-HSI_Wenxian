@@ -1,6 +1,6 @@
 #### Wenxian | Sentinel-2 & GF-5 | RGB-HSI dataset
 ---
-## Wenxian Dataset for Spectral Super-Resolution from RGB to HSI
+## Wenxian Dataset for Spectral Super-Resolution from RGB to HSI and Classification Task
 
 ***Chengle Zhou, Yunfei Li, and Long Yu***
 
