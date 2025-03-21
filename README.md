@@ -23,5 +23,5 @@ If you find our data helpful in your work, please cite our papers.
 
 * Chengle Zhou, Zhi He*, Liwei Zou, Yunfei Li, Antonio Plaza. HSACT: A Hierarchical Semantic-Aware CNN-Transformer for Remote Sensing Image Spectral Super-Resolution, ***Neurocomputing***, 2025. 636: 129925, doi: 10.1016/j.neucom.2025.129990.
 * Chengle Zhou, Zhi He*, Guanglin Lai, and Antonio Plaza. A Selective Semantic Transformer for Spectral Super-Resolution of Multispectral Imagery, ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2025, 18:7436-7450. doi: 10.1109/JSTARS.2025.3545039.
-* Long Yu, Jun Li, Lin He, Antonio Plaza, Lizhe Wang, and Zhonghui Tang. dSPG: A New Discriminant Superpixel Graph Regularizer and Convolutional Network for Hyperspectral Image Classification, ***IEEE Transactions on Geoscience and Remote Sensing***, 2024, 62:1-18, 5526118. doi: 10.1109/TGRS.2024.3439434.
+* Long Yu, Jun Li*, Lin He, Antonio Plaza, Lizhe Wang, and Zhonghui Tang. dSPG: A New Discriminant Superpixel Graph Regularizer and Convolutional Network for Hyperspectral Image Classification, ***IEEE Transactions on Geoscience and Remote Sensing***, 2024, 62:1-18, 5526118. doi: 10.1109/TGRS.2024.3439434.
 
