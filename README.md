@@ -8,7 +8,7 @@
 
 ---
 
-![image](https://github.com/chengle-zhou/MY-IMAGE/blob/3c08fbe872211774e744d7296dfa0e0d73bce279/Wenxian/image-2.png)
+![image](https://github.com/chengle-zhou/MY-IMAGE/blob/29310b9f10654bcac872d91b97311271a577d6e9/Wenxian/image-2.png)
 
 Fig. 1. Wenxian RGB-HSI dataset. RGB (Sentinel-2), HSI (Gaofen-5), and Groundtruth.
 
